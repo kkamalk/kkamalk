@@ -1,4 +1,7 @@
-[![Data Science Background](https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif)](https://ai.plainenglish.io/23-data-science-techniques-you-should-know-61bc2c9d1b3a)
+<a href="https://in.pinterest.com/pin/311381761730704419/">
+   <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Science Background" width="1584" height="396">
+</a>
+
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Data Science Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
