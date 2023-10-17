@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Data Science Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
-- 🌱 I’m currently learning **Data Science** from Turing College
+
+- 🌱 I’m currently learning  **Data Science**  from Turing College
 
 - 👩‍🎓 graduating  **Msc Computer science in AI and Machine learning** from Contech University in 2023
 
