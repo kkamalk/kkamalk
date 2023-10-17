@@ -5,14 +5,15 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Data Science Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
-- 🌱 I’m currently learning **AI and Machine Learning** from turing college
+- 🌱 I’m currently learning **AI and Machine Learning** from Turing college
+
 - 👩‍🎓 graduating  **Msc Computer science in AI and Machine learning** from Contech University in 2023
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkamalk](https://github.com/kkamalk)
 
-- 🧰 Skills: Data preprocessing, feature engineering, model evaluation, hyperparameter tuning,Machine learning
+- 🧰 Skills: Data preprocessing, feature engineering, model evaluation, hyperparameter tuning, Machine learning
 
-- 💬 Ask me about **Data Analytics,Machine learning and Deep learning**
+- 💬 Ask me about **Data Analytics, Machine learning, and Deep learning**
 
 - 📫 How to reach me **kamal.visionfactory@gmail.com**
 
