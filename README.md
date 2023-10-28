@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <h3 align="left" style="color: blue;">About me:</h3>
-
-
 - 🌱 I’m currently learning **Data Science** from Turing College
 
 - 👩‍🎓 Graduating **MSc in Computer Science with a focus on AI and Machine Learning** from Contech University in 2023
