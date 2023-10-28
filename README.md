@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">A passionate Data Science Graduate</h3>
+<h4 align="center">A passionate Data Science Graduate</h4>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <h3 align="left" style="color: blue;">About me:</h3>
